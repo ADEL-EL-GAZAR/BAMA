@@ -1,0 +1,17 @@
+וÐÇ ÇבדÔÑזÚ דÇ וז ÇבÇ דÔÑזÚ ÈÓםØ םÚÊדÏ Ýל ÇÓÇÓו Úבל ÇבÊÍבםב ÈØÑםÞו Çב BAMA
+‗ב ÇבדØבזÈ דה ÇבדÓÊÎÏד וז ÇÏÎÇב ‗בדו דÚםהו בÊÍבםבוÇ זבÊ‗ה ‗בדו wbAlErbyp דËבÇ
+זÈÇבÊÇבל ÓםÞזד ÇבÈÑהÇדÌ ÈÊÞÓםד Çב‗בדו זÊÍבםבוÇ זÇבÈÍË Ýל 6 ÌÏÇזב זול 
+dictPrefixes ז dictStems ז dictSuffixes ז tableab ז tableac ז tablebc
+זØÑםÞו ÇבÈÍË Ýל ‗ב ÌÏזב ÊÚÊדÏ Úבל ØÑםÞו ÇÓÊÎÏÇדו (ÑÇÌÚ ØÑםÞו Çב BAMA)
+זÝל ÇבהוÇםו ÇÐÇ זÌÏ Íבזב דהÇÓÈו ÓםÙוÑ ÇבÈÑהÇדÌ Message Box ב‗ב Íב דה ÇבÍבזב םÍÊזל Úבל 
+	Transliteration ב‗ב ÌÒÁ דה Çב‗בדו
+	Transcription ב‗ב ÌÒÁ דה Çב‗בדו
+	Morphological Category ב‗ב ÌÒÁ דה Çב‗בדו
+	English Gloss ב‗ב ÌÒÁ דה Çב‗בדו
+	Part-of-speech For Morphemes ב‗ב ÌÒÁ דה Çב‗בדו
+
+דבÍזÙו וÇדו ÌÏÇ ÞÈב ÇבÇÓÊÎÏÇד
+	ÚהÏ ÇÓÊÎÏÇד ‗בדÇÊ דÚםהו בה םÙוÑ ב‗ ÇבÈÑהÇדÌ Íבזב ÍÊל ÈדÇ Ýםוד Çב‗בדו wbAlErbyp זÐב‗ בÇה ÇבÏÇÊÇ Çבבל ÇהÇ ÇÚÊדÏÊ ÚבםוÇ Ýל ÇבÌÏÇזב ÈÓםØו ÌÏÇ
+	בםÓ וÐÇ ÈÓÈÈל זב‗הל ÈÍËÊ ÌםÏÇ Úבל ÇבÇהÊÑהÊ בÇÌÏ ÇבÌÏÇזב ‗Çדבו זב‗הל בד ÃÚËÑ ÇבÇ Úבל וÐו ÇבÏÇÊÇ ÇבÈÓםØו
+	זב‗ה ÚÒםÒם ÇבדÓÊÎÏד ÇÐÇ זÌÏÊ ÇבÌÏÇזב ‗Çדבו Ýל םזד דה ÇבÇםÇד םד‗ה‗ ÇÓÊÈÏÇבוÇ Ýל ÇבדבÝÇÊ Çב Excel ÇבדזÌזÏו Ýל ÝזבÏÑ Resources
+	ז‗בדÇ ‗ÇהÊ ÇבÏÇÊÇ ÇבדÓÊÎÏדו Ýל ÇבÌÏÇזב Ç‗ÈÑ ‗בדÇ ‗Çה ÇבהÊÇÆÌ ÇÝÖב זÇ‗ÊÑ
